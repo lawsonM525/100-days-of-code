@@ -3,9 +3,9 @@
 ### Day 0: July 20, 2022
 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Learnt about the basic functionality of Haskell and its expressive syntax. Composed pictures and played around with combining functions.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** The language is so expressive, it makes me like functional languages more. There is much less complexity involved in Haskell than in other functional languages like Java. I like that I didn't have to start by learning with boring text and integers: the tutorial dived right into the Picture function.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Traffic Light Exercise](https://github.com/lawsonM525/haskell-exercises/blob/main/wonky-traffic-light.hs)
 
